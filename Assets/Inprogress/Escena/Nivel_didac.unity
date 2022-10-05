@@ -82529,7 +82529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d5c8b08e63ad86419e1827b63a3d30c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7
+  speed: 10
 --- !u!65 &1817357221
 BoxCollider:
   m_ObjectHideFlags: 0
